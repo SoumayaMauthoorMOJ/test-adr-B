@@ -1,10 +1,9 @@
 ---
 title: ADR-001 Use DuckDB
+status: 
 ---
 
-## Status
-
-✅ Accepted
+![ADR Status](https://img.shields.io/badge/ADR_status-accepted-green)
 
 ## Context
 
