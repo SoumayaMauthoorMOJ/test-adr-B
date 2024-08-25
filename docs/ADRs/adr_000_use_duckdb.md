@@ -1,6 +1,5 @@
 ---
 title: ADR-001 Use DuckDB
-status: 
 ---
 
 ![ADR Status](https://img.shields.io/badge/ADR_status-accepted-green)
